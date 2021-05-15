@@ -1,0 +1,59 @@
+img[src='girl.png'] {
+    height: 70%;
+    background-color: #c82963;
+    /* box-shadow: 2px 3px 19px 0 #000; */
+    box-shadow: 2px 3px 19px 0px #000;
+    /* box-shadow: 2px 3px 19px 0px #200; */
+    /* 
+    box-shadow: x-axis y-axis blurr spread gray;
+     */
+    width: 10cm;
+    margin: auto;
+}
+
+h2.one{
+    display: inline;
+}
+
+h2.two{
+    display: inline;
+}
+
+ul li{
+    font-family: arial;
+}
+
+#text-violet{
+    color: #c82963;
+}
+
+.text-violet{
+    color: violet;
+}
+
+.icons .one{margin: 1rem;}
+
+.icons .two{
+    font-size: 2rem;
+}
+
+.icons .icon{
+    font-size: 2rem;
+}
+
+.icons .icon{
+    font-size: 2rem;
+}
+
+.icons .icon{
+    font-size: 2rem;
+}
+.icons .icon{
+    font-size: 2rem;
+}
+
+
+
+
+
+
